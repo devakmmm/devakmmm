@@ -40,15 +40,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devakmmm&show_icons=true&count_private=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devakmmm&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
